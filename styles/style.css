@@ -233,7 +233,9 @@ header {
   color: #fff;
 }
 
-
+.close:hover {
+  cursor: pointer;
+}
 
 /* Modal  */
 
